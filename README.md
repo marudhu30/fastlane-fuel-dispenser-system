@@ -190,11 +190,11 @@ WIFI_SSID=YourWiFiSSID
 WIFI_PASSWORD=YourWiFiPassword
 
 # Backend Server IP
-BACKEND_IP=192.168.1.100
+BACKEND_IP="YOUR-IP"
 BACKEND_PORT=3000
 
 # ESP32 IP Address
-ESP32_IP=192.168.1.247
+ESP32_IP="YOUR-IP"
 ```
 
 > **Note**: Never commit the `.env` file to version control. It contains sensitive credentials.
