@@ -10,6 +10,7 @@
 - **Storage**: 2GB free space
 - **Network**: WiFi or Ethernet connection
 - **USB Port**: For ESP32 programming
+- **Operating System**: Linux (Ubuntu 20.04+, Arch, Debian) or macOS
 
 #### For ESP32 Fuel Dispenser
 - **Microcontroller**: ESP32 Dev Board (ESP32-WROOM-32 or compatible)
